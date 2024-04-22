@@ -55,7 +55,8 @@ Run Project
 ## If Using Pycharm on Windows to Run Project:
 
 ### Mark 'src' as Sources Root
-![img.png](img.png)
+![img.png](https://github.com/tyremy/Python-Final-Project/blob/main/Python%20Final%20Project/how_to_images/change_working_directory.png)
+![img.png]()
 
 ### Right click on 'main_window.py' and select 'Run 'main_window'''
 
