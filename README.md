@@ -36,7 +36,7 @@ Clone Project or Download Zip File and Extract
 ### Step 3:
 Open Terminal and Navigate to Project</br>
 Example:
-> cd Dekstop/Python Final Project/'Python Final Project'
+> cd Dekstop/Python-Final-Project-main/'Python Final Project'
 
 ### Step 4:
 Create Virtual Environment and activate using Virtualenv
