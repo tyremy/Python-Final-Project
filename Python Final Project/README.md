@@ -31,14 +31,24 @@ Install Python 3.9
 >https://www.python.org/downloads/release/python-3913/
 
 ### Step 2:
-Set python path to src
-> Figure out how this is done on Mac and include command
+>Clone Project or Download Zip File and Extract
+
+### Step 2:
+Open Terminal and Navigate to Project</br>
+Example:
+> cd Dekstop/Python Final Project/'Python Final Project'
 
 ### Step 3:
-Load virtual environment
->pip install -r requirements.txt
+Create Virtual Environment and activate using Virtualenv
+>python3 -m pip install virtualenv
+>virtualenv venv
+>source venv/bin/activate
 
 ### Step 4:
+Install Packages from Requirements.txt
+>pip install -r requirements.txt
+
+### Step 5:
 Run Project
 > python -m 'user_interface.main_window'
 
