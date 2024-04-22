@@ -13,15 +13,15 @@ Python was used exclusively for this project to create the framework of the Curl
 ## Windows Instruction:
 
 ### Step 1:
-Clone Project
+Clone Project or Download Zip File and Extract
 
 ### Step 2:
 Install Python 3.9
 >https://www.python.org/downloads/release/python-3913/
 
 ### Step 3:
-Download Project and Click on Batch file
-> Right Click on "Curling_League_Manager.bat" file and run as administrator"
+Run using batch file:
+> Inside Python Final Project Folder right Click on "Curling_League_Manager.bat" file and run as administrator"
 
 
 ## Mac Instructions
