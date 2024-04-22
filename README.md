@@ -55,13 +55,12 @@ Run Project
 ## If Using Pycharm on Windows to Run Project:
 
 ### Mark 'src' as Sources Root
-![img.png](https://github.com/tyremy/Python-Final-Project/blob/main/Python%20Final%20Project/how_to_images/change_working_directory.png)
-![img.png]()
+![img.png](https://github.com/tyremy/Python-Final-Project/blob/main/Python%20Final%20Project/how_to_images/mark_as_root.png)
 
 ### Right click on 'main_window.py' and select 'Run 'main_window'''
 
 ### Edit working directory in run configuration so that the working directory is 'Python Final Project'
 Ex:
-![img_1.png](img_1.png)
+![img_1.png](https://github.com/tyremy/Python-Final-Project/blob/main/Python%20Final%20Project/how_to_images/change_working_directory.png)
 
 
