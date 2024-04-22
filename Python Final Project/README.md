@@ -33,22 +33,22 @@ Install Python 3.9
 ### Step 2:
 Clone Project or Download Zip File and Extract
 
-### Step 2:
+### Step 3:
 Open Terminal and Navigate to Project</br>
 Example:
 > cd Dekstop/Python Final Project/'Python Final Project'
 
-### Step 3:
+### Step 4:
 Create Virtual Environment and activate using Virtualenv
 >python3 -m pip install virtualenv
 >virtualenv venv
 >source venv/bin/activate
 
-### Step 4:
+### Step 5:
 Install Packages from Requirements.txt
 >pip install -r requirements.txt
 
-### Step 5:
+### Step 6:
 Run Project
 > python -m 'user_interface.main_window'
 
