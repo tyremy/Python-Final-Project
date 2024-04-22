@@ -49,6 +49,10 @@ Install Packages from Requirements.txt
 >pip install -r requirements.txt
 
 ### Step 6:
+Navigate to src directory
+>cd src
+
+### Step 7:
 Run Project
 > python -m 'user_interface.main_window'
 
