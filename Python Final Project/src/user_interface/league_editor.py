@@ -7,7 +7,7 @@ from curling_league.team import Team
 from user_interface.team_editor import TeamEditor
 from user_interface.utility_methods import UtilityMethods
 
-Ui_MainWindow, QtBaseClass = uic.loadUiType('user_interface/league_editor.ui')
+Ui_MainWindow, QtBaseClass = uic.loadUiType('src/user_interface/league_editor.ui')
 
 
 class LeagueEditor(QtBaseClass, Ui_MainWindow):
