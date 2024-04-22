@@ -20,8 +20,8 @@ Install Python 3.9
 >https://www.python.org/downloads/release/python-3913/
 
 ### Step 3:
-Run using batch file:
-> Inside Python Final Project Folder right Click on "Curling_League_Manager.bat" file and run as administrator
+Run using batch file:</br>
+Inside Python Final Project Folder right Click on "Curling_League_Manager.bat" file and run as administrator
 
 
 ## Mac Instructions
@@ -31,7 +31,7 @@ Install Python 3.9
 >https://www.python.org/downloads/release/python-3913/
 
 ### Step 2:
->Clone Project or Download Zip File and Extract
+Clone Project or Download Zip File and Extract
 
 ### Step 2:
 Open Terminal and Navigate to Project</br>
