@@ -6,7 +6,7 @@ from PyQt5 import uic, QtWidgets
 from user_interface.league_editor import LeagueEditor
 from user_interface.utility_methods import UtilityMethods
 
-Ui_MainWindow, QtBaseClass = uic.loadUiType('src/user_interface/main_window.ui')
+Ui_MainWindow, QtBaseClass = uic.loadUiType('user_interface/main_window.ui')
 
 
 class MainWindow(QtBaseClass, Ui_MainWindow):
