@@ -63,8 +63,3 @@ Run Project
 Ex:
 ![img_1.png](https://github.com/tyremy/Python-Final-Project/blob/main/Python%20Final%20Project/how_to_images/change_working_directory.png)
 
-## If Using Pycharm on Mac to Run Project:
-
-### Follow Mac Instructions 1-5 Above and follow the same instructions for running via PyCharm in windows
-
-
