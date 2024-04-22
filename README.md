@@ -13,11 +13,11 @@ Python was used exclusively for this project to create the framework of the Curl
 ## Windows Instruction:
 
 ### Step 1:
-Clone Project or Download Zip File and Extract
-
-### Step 2:
 Install Python 3.9
 >https://www.python.org/downloads/release/python-3913/
+
+### Step 2:
+Clone Project or Download Zip File and Extract
 
 ### Step 3:
 Run using batch file:</br>
