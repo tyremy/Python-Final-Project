@@ -13,15 +13,15 @@ Python was used exclusively for this project to create the framework of the Curl
 ## Windows Instruction:
 
 ### Step 1:
-Clone Project
+Clone Project or Download Zip File and Extract
 
 ### Step 2:
 Install Python 3.9
 >https://www.python.org/downloads/release/python-3913/
 
 ### Step 3:
-Download Project and Click on Batch file
-> Right Click on "Curling_League_Manager.bat" file and run as administrator"
+Run using batch file:</br>
+Inside Python Final Project Folder right Click on "Curling_League_Manager.bat" file and run as administrator
 
 
 ## Mac Instructions
@@ -31,13 +31,34 @@ Install Python 3.9
 >https://www.python.org/downloads/release/python-3913/
 
 ### Step 2:
-Set python path to src
-> Figure out how this is done on Mac and include command
+Clone Project or Download Zip File and Extract
 
 ### Step 3:
-Load virtual environment
->pip install -r requirements.txt
+Open Terminal and Navigate to Project</br>
+Example:
+> cd Dekstop/Python Final Project/'Python Final Project'
 
 ### Step 4:
+Create Virtual Environment and activate using Virtualenv
+>python3 -m pip install virtualenv</br>
+>virtualenv venv</br>
+>source venv/bin/activate
+
+### Step 5:
+Install Packages from Requirements.txt
+>pip install -r requirements.txt
+
+### Step 6:
 Run Project
 > python -m 'user_interface.main_window'
+
+## If Using Pycharm on Windows to Run Project:
+
+### Mark 'src' as Sources Root
+![img.png](img.png)
+
+### Right click on 'main_window.py' and select 'Run 'main_window'''
+
+### Edit working directory in run configuration so that the working directory is 'Python Final Project'
+Ex:
+![img_1.png](img_1.png)
