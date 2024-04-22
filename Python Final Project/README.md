@@ -40,8 +40,8 @@ Example:
 
 ### Step 4:
 Create Virtual Environment and activate using Virtualenv
->python3 -m pip install virtualenv
->virtualenv venv
+>python3 -m pip install virtualenv</br>
+>virtualenv venv</br>
 >source venv/bin/activate
 
 ### Step 5:
