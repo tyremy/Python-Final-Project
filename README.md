@@ -49,10 +49,14 @@ Install Packages from Requirements.txt
 >pip install -r requirements.txt
 
 ### Step 6:
+Add directory to Python Path
+>export PYTHONPATH=“."
+
+### Step 7:
 Navigate to src directory
 >cd src
 
-### Step 7:
+### Step 8:
 Run Project
 > python -m 'user_interface.main_window'
 
